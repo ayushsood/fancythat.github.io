@@ -24,7 +24,7 @@ h6 {
 }
 .navbar .navbar-header {
   height: 100%;
-  padding: 3px 40px;
+  padding: 3px 30px;
 }
 .navbar .navbar-nav {
   font-size: 22px;
@@ -51,7 +51,8 @@ h6 {
 }
 .navbar .navbar-header .header-that {
   font-size: 24px;
-  top: 3px;
+  position: relative;
+  top: 2px;
 }
 .container {
   margin-top: 60px;
